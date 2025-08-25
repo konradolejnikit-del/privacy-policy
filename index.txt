@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Polityka Prywatności</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; color: #333; }
+    h1, h2 { color: #222; }
+    p { margin-bottom: 15px; }
+    ul { margin-bottom: 15px; }
+  </style>
+</head>
+<body>
